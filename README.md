@@ -12,12 +12,14 @@
 
 
 관심분야
-*인공지능
-*게임개발
+*JAVA 
+*ANDROID
+*WEB DEVELOP
 
 프로그래밍 언어스킬
-1.java배우는중
-2.python배우는중
+1.java
+2.python
+3.javascript
 
 ----------------------
 
